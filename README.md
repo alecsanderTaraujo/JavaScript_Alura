@@ -1,2 +1,2 @@
-# JavaScript_Alura
+# JavaScript, HTML
 Projeto Numero Secreto.
